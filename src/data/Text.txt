@@ -1,0 +1,56 @@
+
+All the required Text for this portfolio
+Fonts
+
+----------------------------------------------
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600&family=Pacifico&family=Source+Sans+Pro:wght@400;600;700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+----------------------------------------------
+
+
+Skills
+----------------------------------------------
+I love to create applications which are easy to understand and user friendly,I try to Keep it clean, minimal and simple.
+Skills
+Html, Css, Javascript, JQuery, React, Redux, Sass, Bootstrap.
+
+
+I also love to solve and debug issues backend side and also love to implement various backend features e.g., APIs, full stack web applications and also love to work with databases.
+SKILLS
+Dotnet core, Dotnet framework, Rest APIs, Razor pages, MSSQL, MySQL, Enitiy framework core, C#.
+
+TOOLS
+Postman, Docker, Github, Docker, SOAP Ui, Bitbucket, Jira etc.
+
+----------------------------------------------
+
+About Text
+
+----------------------------------------------
+I'm a full stack developer located in India and currently working as a Full stack developer in Mystifly company. I love to create APIs, dot net web applications , React web applications.
+
+I'm interested more in the backend development and I'm always looking for new challenges to learn new technologies. I love to read books and learn new technologies and solving problems. Great at googling stuff and reaching at the depth of an issue or problem.
+
+You can connect with me via social links.
+----------------------------------------------
+
+
+Theme
+----------------------------------------------
+    body:"#FCF6F4",
+    text:"#000000",
+    fontFamily:"'Source Sans Pro', sans-serif",
+    bodyRgba : "252, 246, 244",
+    textRgba:"0,0,0",
+
+
+----------------------------------------------
+
+
+
+
+
+
