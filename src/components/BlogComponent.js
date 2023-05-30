@@ -1,3 +1,4 @@
+// Certification Section
 import { motion } from "framer-motion";
 import React from "react";
 import { NavLink } from "react-router-dom";
@@ -10,7 +11,7 @@ const Box = styled(motion(NavLink))`
   padding: 1rem;
   color: ${(props) => props.theme.text};
   border: 2px solid ${(props) => props.theme.text};
-  backdrop-filter: blur(2px);
+  backdrop-filter: blur(0px);
   box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
   cursor: pointer;
 

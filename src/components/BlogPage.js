@@ -1,3 +1,4 @@
+// Certification Section
 import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import img from "../assets/Images/wedas.jfif";

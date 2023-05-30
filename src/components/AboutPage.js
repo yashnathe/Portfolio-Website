@@ -67,7 +67,7 @@ const AboutPage = () => {
           <img src={astronaut} alt="spaceman" />
         </Spaceman>
         <Main>
-          I am a full stack web developer with a passion for creating beautiful and functional websites. I am in Third year graduate with a degree in Artificial Intelligence & Data Science and have a strong understanding of web development technologies including HTML, CSS, JavaScript, and various frameworks such as React, Node.js, and Express.
+          I am a full stack web developer with a passion for creating beautiful and functional websites. I am undergraduate with a degree in Artificial Intelligence & Data Science and have a strong understanding of web development technologies including HTML, CSS, JavaScript, TypeScript and various frameworks such as Angular, React, Node.js, and Express.
           <br /> <br />
           My goal as a developer is to build high-quality websites that not only look great but also provide an excellent user experience. I am always eager to learn new technologies and am constantly seeking new challenges to improve my skills.
           <br /> <br />I am excited to begin my career as a full stack web developer and am eager to work on projects that push me to grow and improve as a developer. If you are looking for a dedicated and motivated web developer, please don't hesitate to contact me.

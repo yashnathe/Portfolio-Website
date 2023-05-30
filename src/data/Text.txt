@@ -13,28 +13,31 @@ Fonts
 
 Skills
 ----------------------------------------------
+Front-end Developer
 I love to create applications which are easy to understand and user friendly,I try to Keep it clean, minimal and simple.
-Skills
-Html, Css, Javascript, JQuery, React, Redux, Sass, Bootstrap.
-
-
-I also love to solve and debug issues backend side and also love to implement various backend features e.g., APIs, full stack web applications and also love to work with databases.
 SKILLS
-Dotnet core, Dotnet framework, Rest APIs, Razor pages, MSSQL, MySQL, Enitiy framework core, C#.
+HTML, CSS, BootStrap
+JavaScript
+React,Solidity,Ethereum
 
-TOOLS
-Postman, Docker, Github, Docker, SOAP Ui, Bitbucket, Jira etc.
+
+Back-end Developer
+I also like to solve the DataStructure Problem and debug issues backend side and to implement various backend features e.g., APIs.
+SKILLS
+C, C++
+Rest APIs, APIs
+MySQL, MongoDB
 
 ----------------------------------------------
 
 About Text
 
 ----------------------------------------------
-I'm a full stack developer located in India and currently working as a Full stack developer in Mystifly company. I love to create APIs, dot net web applications , React web applications.
+I am a full stack web developer with a passion for creating beautiful and functional websites. I am in Third year graduate with a degree in Artificial Intelligence & Data Science and have a strong understanding of web development technologies including HTML, CSS, JavaScript, and various frameworks such as React, Node.js, and Express.
 
-I'm interested more in the backend development and I'm always looking for new challenges to learn new technologies. I love to read books and learn new technologies and solving problems. Great at googling stuff and reaching at the depth of an issue or problem.
+My goal as a developer is to build high-quality websites that not only look great but also provide an excellent user experience. I am always eager to learn new technologies and am constantly seeking new challenges to improve my skills.
 
-You can connect with me via social links.
+I am excited to begin my career as a full stack web developer and am eager to work on projects that push me to grow and improve as a developer. If you are looking for a dedicated and motivated web developer, please don't hesitate to contact me.
 ----------------------------------------------
 
 
